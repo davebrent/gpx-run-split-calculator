@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gpx-run-split-calculator/precache-manifest.d9ec89299f63a23bf54b84c7f1c00d4a.js"
+  "/gpx-run-split-calculator/precache-manifest.1a6c15050319947f53c994c3bd77386c.js"
 );
 
 self.addEventListener('message', (event) => {
